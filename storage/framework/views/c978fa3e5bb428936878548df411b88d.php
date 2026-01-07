@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\web-makanan\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
